@@ -1,3 +1,9 @@
+#kendisine parametre olarak gelen n  ile n*n lik spiral matrisi yazınız 
+#Örnek :
+#1 2 3
+#8 9 4
+#7 6 5
+
 def spiralli_matris(n):
     # n x n boyutlarında boş bir matris oluşturuyoruz
     matris = [[0] * n for _ in range(n)]
