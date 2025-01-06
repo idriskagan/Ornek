@@ -1,3 +1,6 @@
+#a, b, c olmak üzere 3 tamsayı değerini kabul eden bir fonksiyon uygulayın. Belirtilen uzunluktaki kenarlarla bir üçgen oluşturulabiliyorsa fonksiyon true değerini döndürmelidir;
+#diğer durumlarda false değerini döndürmelidir.(Bu durumda tüm üçgenlerin kabul edilebilmesi için yüzeylerinin 0'dan büyük olması gerekir).
+
 def ucgen(a, b, c):
     if a <= 0 or b <= 0 or c <= 0:
         return False
