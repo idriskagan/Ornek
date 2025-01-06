@@ -1,3 +1,8 @@
+#Her kelimenin ilk harfini sonuna taşıyın, sonra kelimenin sonuna "ay" ekleyin. Noktalama işaretlerini olduğu gibi bırakın.
+
+#Örnekler
+#Merhaba Dünya # erhabaMay ünyaDay
+#Hello World ! # elloHay orldWay !
 import string
 
 
